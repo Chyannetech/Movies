@@ -1,5 +1,19 @@
+
+body {
+background-color: rgb(255, 255, 255);
+background-image: url(https://media0.giphy.com/media/lS1pfyyVmY65BCLOHu/giphy.gif?cid=ecf05e47wkvia1yze7p4866q1wq1gpau52bdbsnr0p7z7vu4&rid=giphy.gif&ct=g);
+background-position-x: 650px;
+background-repeat:no-repeat;
+background-attachment: fixed;
+padding: 20%;
+}
+
 .App {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  background-image: url(https://media2.giphy.com/media/l4vdxJO98HZpLbtb2c/giphy.gif?cid=ecf05e47sxvf660u7ep9uyax7whza6yw0i03vny57074rnx2&rid=giphy.gif&ct=s);
   text-align: center;
+  
 }
 
 .App-logo {
